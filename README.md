@@ -84,7 +84,7 @@ The dataset contains anonymized credit card transaction data. Key features inclu
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/MO-87/CC-Fraud-Detection-with-Imbalanced-Data.git)
+   git clone https://github.com/MO-87/CC-Fraud-Detection-with-Imbalanced-Data.git
    ```
 2. Install the required packages:
    ```bash
